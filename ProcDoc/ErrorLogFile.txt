@@ -1,0 +1,225 @@
+Source		: Test
+Date		: 23:02:37
+Time		: 21/06/2014
+Computer	: AJEET
+Error		: hi
+^^-------------------------------------------------------------------^^
+Source		: Test
+Date		: 23:23:03
+Time		: 21/06/2014
+Computer	: AJEET
+Error		: hi
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 10:40:45
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: The path is not of a legal form.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 10:50:47
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: The process cannot access the file 'C:\Users\ajeetkumar\Documents\Visual Studio 2012\Projects\ProcDoc\ProcDoc\bin\Debug\Errors\ERROR_104845.22062014.pdf' because it is being used by another process.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 10:56:00
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: The process cannot access the file 'C:\Users\ajeetkumar\Documents\Visual Studio 2012\Projects\ProcDoc\ProcDoc\bin\Debug\Errors\ERROR_105506_22062014.pdf' because it is being used by another process.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 17:25:23
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: Length cannot be less than zero.
+Parameter name: length
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 17:27:01
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: Length cannot be less than zero.
+Parameter name: length
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 18:17:01
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: Length cannot be less than zero.
+Parameter name: length
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 22:58:11
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: The directory name is invalid.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 23:00:54
+Time		: 22/06/2014
+Computer	: AJEET
+Error		: The directory name is invalid.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 01:04:12
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: The given path's format is not supported.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 01:04:12
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: The given path's format is not supported.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 01:11:00
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: The given path's format is not supported.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 01:15:27
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: Could not find a part of the path 'C:\Users\ajeetkumar\Desktop\ProcDoc\ProcDoc\bin\Debug\Processed\Tax Invoice\2014\June\23\Tax_Invoice_0000000000_011430_23062014.xml\Tax_Invoice_0000000000_011432_23062014.xml'.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:04:02
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:04:02
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:04:02
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:04:02
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:04:02
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:06:31
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:06:31
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:06:31
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:06:31
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:06:31
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:08:07
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:08:10
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:08:12
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:08:14
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:08:16
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:13:35
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:13:35
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:13:35
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:13:35
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: System.Xml
+Date		: 04:13:35
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: '>' is an unexpected token. The expected token is '='. Line 1, position 13.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 04:36:50
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: Cannot access a closed file.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 04:37:56
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: Cannot access a closed file.
+^^-------------------------------------------------------------------^^
+Source		: mscorlib
+Date		: 04:38:22
+Time		: 23/06/2014
+Computer	: AJEET
+Error		: Cannot access a closed file.
+^^-------------------------------------------------------------------^^

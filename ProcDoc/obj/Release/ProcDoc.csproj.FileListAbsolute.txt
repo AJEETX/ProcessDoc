@@ -1,0 +1,4 @@
+C:\Users\ajeetkumar\Desktop\ProcDoc\ProcDoc\bin\Release\ProcDoc.exe.config
+C:\Users\ajeetkumar\Desktop\ProcDoc\ProcDoc\obj\Release\ProcDoc.Form1.resources
+C:\Users\ajeetkumar\Desktop\ProcDoc\ProcDoc\obj\Release\ProcDoc.Properties.Resources.resources
+C:\Users\ajeetkumar\Desktop\ProcDoc\ProcDoc\obj\Release\ProcDoc.csproj.GenerateResource.Cache
